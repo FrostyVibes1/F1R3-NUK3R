@@ -1,0 +1,12 @@
+install.bat
+F1R3-NUK3R.bat
+
+icon.ico
+test.py
+chromedriver.exe
+
+
+**/__pycache__/
+dist
+QR-Code
+util
